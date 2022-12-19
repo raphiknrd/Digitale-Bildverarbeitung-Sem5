@@ -1,6 +1,6 @@
 tensorflow
 numpy
-mathplotlib
+matplot
 seaborn
 pandas
 importlib
