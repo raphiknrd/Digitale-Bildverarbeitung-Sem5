@@ -1,6 +1,5 @@
 tensorflow
 numpy
-math
 mathplotlib
 seaborn
 pandas
