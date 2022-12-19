@@ -1,6 +1,5 @@
 tensorflow
 numpy
-time
 math
 mathplotlib
 seaborn
