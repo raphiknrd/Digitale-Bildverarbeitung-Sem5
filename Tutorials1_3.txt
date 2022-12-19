@@ -1,0 +1,21 @@
+The first Tutorial:
+
+In the first Tutorial, we learned something about the optimization with backpropagation.
+At first, we just implemented the math we already learn in the lecture, to improve our numbers. 
+TensorFlow was our next step, we used it to do our math and simplify our tasks.
+By using Keras, we got our first neural network, which we trained and tested.
+
+
+The second Tutorial:
+
+In the second Tutorial, we learned to use a model, which already has been pretrained to do different tasks. 
+To specialize the model for our task, we can add another layer before the flatten operation. 
+By freezing the old layers, we can keep the loaded weights from updating and just update the top-level classifier. 
+The main advantage is saving time by using a pretrained model.
+
+The third Tutorial
+
+In the third tutorial we will use U-Net network to use the data we have more efficiently.
+With the Dice coefficient loss, we can compare the prediction of our network with the ground truth. 
+We use data augmentation layers to create more date with RandomRotation, RandomFlip and RandomZoom.
+It's very important to form the images and labels together.
