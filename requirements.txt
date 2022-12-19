@@ -3,7 +3,6 @@ numpy
 mathplotlib
 seaborn
 pandas
-os
 importlib
 random
 sklearn
