@@ -1,11 +1,9 @@
-python==3.10
 tensorflow
 numpy
 math
 mathplotlib
 seaborn
 pandas
-datetime
 os
 importlib
 random
