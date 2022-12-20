@@ -13,6 +13,7 @@ To specialize the model for our task, we can add another layer before the flatte
 By freezing the old layers, we can keep the loaded weights from updating and just update the top-level classifier. 
 The main advantage is saving time by using a pretrained model.
 
+
 The third Tutorial
 
 In the third tutorial we will use U-Net network to use the data we have more efficiently.
