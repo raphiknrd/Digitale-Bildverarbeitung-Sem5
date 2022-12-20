@@ -4,3 +4,4 @@ matplot
 seaborn
 pandas
 importlib
+scikit-learn
