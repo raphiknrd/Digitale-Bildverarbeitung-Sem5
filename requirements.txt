@@ -4,4 +4,3 @@ matplot
 seaborn
 pandas
 importlib
-sklearn==0.0.post1
